@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # Welcome to Kemi's Profile! 👋
 
-Hi there! I'm adebola, a passionate Technical Project Manager from London. Welcome to my GitHub profile! Here you'll find a variety of projects and repositories showcasing my skills, interests, and contributions to the world of technology.
+Hi there! I'm Kemi Odidi, a passionate Technical Project Manager from London. Welcome to my GitHub profile! Here you'll find a variety of projects and repositories showcasing my skills, interests, and contributions to the world of technology.
 
 ## About Me ℹ️
 
@@ -53,11 +53,11 @@ You can explore more of my projects and contributions in my [GitHub repositories
 
 ## Skills 🛠️
 
-- [Cyber Security]
-- [Prince2 Practitioner]
-- [Big Data]
-- [Python]
-- [SQL]
+- Cyber Security
+- Prince2 Practitioner
+- Big Data
+- Python
+- SQL
 
 
-Thanks for stopping by! I hope you find something interesting in my profile. Don't forget to [follow me](GitHub Profile URL) for updates on my latest projects and activities. Happy coding! 😊
+Thanks for stopping by! I hope you find something interesting in my profile. Don't forget to [follow me]([GitHub Profile URL](https://github.com/boagold/boagold)) for updates on my latest projects and activities. Happy coding! 😊
