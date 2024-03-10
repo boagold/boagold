@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome to [Your Name]'s Profile! 👋
+# Welcome to Kemi's Profile! 👋
 
 Hi there! I'm adebola, a passionate Technical Project Manager from London. Welcome to my GitHub profile! Here you'll find a variety of projects and repositories showcasing my skills, interests, and contributions to the world of technology.
 
